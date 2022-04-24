@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="todos">Todos</string>
+    <string name="enter_to_do_title">Enter to do</string>
+    <string name="enter_to_do_hint">enter to do</string>
+    <string name="add_to_list">add to list</string>
+    <string name="clean_house">Clean House</string>
+    <string name="do_homework_text">Do Homework</string>
+    <string name="buy_groceries_text">Buy groceries</string>
+
+</resources>
